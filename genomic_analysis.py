@@ -1,1 +1,1 @@
-print('This is NOT a genomic analysis')
+print('This is a genomic analysis')
