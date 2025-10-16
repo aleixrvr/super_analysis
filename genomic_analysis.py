@@ -1,1 +1,0 @@
-print('This is NOT a genomic analysis')
